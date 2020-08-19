@@ -5,9 +5,14 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed;
+    public float jumpForce;
     public Rigidbody2D rb;
     public SpriteRenderer spriteRenderer;
     public Animator anim;
+
+    private bool canJump = true;
+
+    private int score = 0;
 
     void Start()
     {
@@ -17,6 +22,19 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(Physics2D.Raycast(transform.position, Vector3.down, 0.6f))
+        {
+            canJump = true;
+        }
+
+        if( Input.GetKeyDown(KeyCode.Space) && canJump == true )
+        {
+            rb.AddForce(new Vector2(0, jumpForce));
+            anim.SetTrigger("jump");
+            canJump = false;
+        }
+
+
         if( Input.GetKey(KeyCode.D) )
         {
             rb.AddForce(new Vector2(speed, 0));

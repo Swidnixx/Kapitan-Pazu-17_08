@@ -1,0 +1,4301 @@
+fileFormatVersion: 2
+guid: bf6f3dddc125b6449836637af0828158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5670732621190257608
+    second: Money_0
+  - first:
+      213: 2429705866556353255
+    second: Money_1
+  - first:
+      213: -8490346600704463052
+    second: Money_2
+  - first:
+      213: -2552588362852645552
+    second: Money_3
+  - first:
+      213: -1282214387447324998
+    second: Money_4
+  - first:
+      213: -3827101018466894660
+    second: Money_5
+  - first:
+      213: -4995113568988858389
+    second: Money_6
+  - first:
+      213: 1421891112487886428
+    second: Money_7
+  - first:
+      213: 3095945364619268125
+    second: Money_8
+  - first:
+      213: -5474721578163027431
+    second: Money_9
+  - first:
+      213: -862303008461550095
+    second: Money_10
+  - first:
+      213: 4893508558537148373
+    second: Money_11
+  - first:
+      213: 1324051523622856798
+    second: Money_12
+  - first:
+      213: -6309029677991136688
+    second: Money_13
+  - first:
+      213: -1555146038837010751
+    second: Money_14
+  - first:
+      213: 1839454547574078320
+    second: Money_15
+  - first:
+      213: 5532973593654254713
+    second: Money_16
+  - first:
+      213: -6118040220807544100
+    second: Money_17
+  - first:
+      213: -3201735852291667062
+    second: Money_18
+  - first:
+      213: -4389961223291974512
+    second: Money_19
+  - first:
+      213: 4670307417795830905
+    second: Money_20
+  - first:
+      213: -674246597458579737
+    second: Money_21
+  - first:
+      213: -259490080492747291
+    second: Money_22
+  - first:
+      213: -7433400660908938034
+    second: Money_23
+  - first:
+      213: 4973198997511611038
+    second: Money_24
+  - first:
+      213: -2445350590535647921
+    second: Money_25
+  - first:
+      213: -4139231717538744444
+    second: Money_26
+  - first:
+      213: -1316032350591767884
+    second: Money_27
+  - first:
+      213: -6055277565809255214
+    second: Money_28
+  - first:
+      213: 3961607052776356226
+    second: Money_29
+  - first:
+      213: 749805915025457253
+    second: Money_30
+  - first:
+      213: -8070835644520190554
+    second: Money_31
+  - first:
+      213: 8159242576659862087
+    second: Money_32
+  - first:
+      213: 380549407285653454
+    second: Money_33
+  - first:
+      213: -6920390118124130650
+    second: Money_34
+  - first:
+      213: 2747412910409868577
+    second: Money_35
+  - first:
+      213: 4714754571201732623
+    second: Money_36
+  - first:
+      213: -466792021232833881
+    second: Money_37
+  - first:
+      213: -5878858201171056856
+    second: Money_38
+  - first:
+      213: -8915622793248463746
+    second: Money_39
+  - first:
+      213: -2480846428851291039
+    second: Money_40
+  - first:
+      213: -2145293498323951261
+    second: Money_41
+  - first:
+      213: 3762813438836605925
+    second: Money_42
+  - first:
+      213: 2925723082203846840
+    second: Money_43
+  - first:
+      213: 6595481279612977606
+    second: Money_44
+  - first:
+      213: 7956173385695544543
+    second: Money_45
+  - first:
+      213: 9215394108492549724
+    second: Money_46
+  - first:
+      213: 5303391512928754146
+    second: Money_47
+  - first:
+      213: -329964969547701758
+    second: Money_48
+  - first:
+      213: -6777813420419079888
+    second: Money_49
+  - first:
+      213: 1348561274155929388
+    second: Money_50
+  - first:
+      213: 2304987420763860960
+    second: Money_51
+  - first:
+      213: 5389514408919183508
+    second: Money_52
+  - first:
+      213: 1229583979005129417
+    second: Money_53
+  - first:
+      213: 7077856510775217764
+    second: Money_54
+  - first:
+      213: -5398030417774263190
+    second: Money_55
+  - first:
+      213: 2196861443901169210
+    second: Money_56
+  - first:
+      213: -735606139567834509
+    second: Money_57
+  - first:
+      213: -766247658843509733
+    second: Money_58
+  - first:
+      213: 6841225919094950841
+    second: Money_59
+  - first:
+      213: 4186158861187567796
+    second: Money_60
+  - first:
+      213: -717336565430974103
+    second: Money_61
+  - first:
+      213: -5072843143628538431
+    second: Money_62
+  - first:
+      213: -4375726745670562086
+    second: Money_63
+  - first:
+      213: -6856264538384309730
+    second: Money_64
+  - first:
+      213: -8467720242024115978
+    second: Money_65
+  - first:
+      213: -1148611412551567559
+    second: Money_66
+  - first:
+      213: 1685718898759780171
+    second: Money_67
+  - first:
+      213: -2895193013680187306
+    second: Money_68
+  - first:
+      213: 3656519912069974261
+    second: Money_69
+  - first:
+      213: 9149494251333775930
+    second: Money_70
+  - first:
+      213: 4938216975010327433
+    second: Money_71
+  - first:
+      213: 5897756708782527484
+    second: Money_72
+  - first:
+      213: 3535370880580832994
+    second: Money_73
+  - first:
+      213: 3178020872764604690
+    second: Money_74
+  - first:
+      213: -5109853072574350525
+    second: Money_75
+  - first:
+      213: -6632375649686833761
+    second: Money_76
+  - first:
+      213: -1505501749342543940
+    second: Money_77
+  - first:
+      213: -6295868071606034953
+    second: Money_78
+  - first:
+      213: 5870835803746049550
+    second: Money_79
+  - first:
+      213: -1821142891873494885
+    second: Money_80
+  - first:
+      213: 7036636186474655742
+    second: Money_81
+  - first:
+      213: -5093034400717808769
+    second: Money_82
+  - first:
+      213: 1230048503378625477
+    second: Money_83
+  - first:
+      213: 1011631615670985363
+    second: Money_84
+  - first:
+      213: 601576213222372844
+    second: Money_85
+  - first:
+      213: 2886460898914023644
+    second: Money_86
+  - first:
+      213: 8889729501621086619
+    second: Money_87
+  - first:
+      213: 8325633404845009883
+    second: Money_88
+  - first:
+      213: -3443149976763177442
+    second: Money_89
+  - first:
+      213: -2182205122968918851
+    second: Money_90
+  - first:
+      213: 8713999856674320931
+    second: Money_91
+  - first:
+      213: -2854429364417609215
+    second: Money_92
+  - first:
+      213: 5947406933878214945
+    second: Money_93
+  - first:
+      213: 7784931853504629166
+    second: Money_94
+  - first:
+      213: 5565749067009644644
+    second: Money_95
+  - first:
+      213: 3974586704059093645
+    second: Money_96
+  - first:
+      213: -4808291485383657223
+    second: Money_97
+  - first:
+      213: 2791228165489421071
+    second: Money_98
+  - first:
+      213: 4071820659288153943
+    second: Money_99
+  - first:
+      213: 5442357172394082901
+    second: Money_100
+  - first:
+      213: -5805663323723435791
+    second: Money_101
+  - first:
+      213: -2958041310634842970
+    second: Money_102
+  - first:
+      213: -5453911848252792803
+    second: Money_103
+  - first:
+      213: 6741967777660097706
+    second: Money_104
+  - first:
+      213: -5788363531207134393
+    second: Money_105
+  - first:
+      213: 2663130862781106812
+    second: Money_106
+  - first:
+      213: -2698839954391994208
+    second: Money_107
+  - first:
+      213: -9199968272954869728
+    second: Money_108
+  - first:
+      213: -5722222076722959548
+    second: Money_109
+  - first:
+      213: 5269224327204698114
+    second: Money_110
+  - first:
+      213: -3030024190991997793
+    second: Money_111
+  - first:
+      213: -7082196619032389540
+    second: Money_112
+  - first:
+      213: 970133727096726790
+    second: Money_113
+  - first:
+      213: 1580084424417631257
+    second: Money_114
+  - first:
+      213: 8562566557814156515
+    second: Money_115
+  - first:
+      213: -2752793536752992993
+    second: Money_116
+  - first:
+      213: 5630664956369365096
+    second: Money_117
+  - first:
+      213: 8849951351917995684
+    second: Money_118
+  - first:
+      213: -5960449521716087006
+    second: Money_119
+  - first:
+      213: 5905910642861895227
+    second: Money_120
+  - first:
+      213: -3900973768919755795
+    second: Money_121
+  - first:
+      213: 5640545609446842729
+    second: Money_122
+  - first:
+      213: 6958530428667065325
+    second: Money_123
+  - first:
+      213: 9003803533649261483
+    second: Money_124
+  - first:
+      213: 7457869613678896129
+    second: Money_125
+  - first:
+      213: -3105855206008395355
+    second: Money_126
+  - first:
+      213: 5732705537777460424
+    second: Money_127
+  - first:
+      213: 4322616289792386022
+    second: Money_128
+  - first:
+      213: -8012297710835795577
+    second: Money_129
+  - first:
+      213: 6206265897345317010
+    second: Money_130
+  - first:
+      213: -4281113846443256183
+    second: Money_131
+  - first:
+      213: 8028989810191601675
+    second: Money_132
+  - first:
+      213: -5740617163177476575
+    second: Money_133
+  - first:
+      213: -342870233705532916
+    second: Money_134
+  - first:
+      213: 860803991724170300
+    second: Money_135
+  - first:
+      213: -8790162783381063544
+    second: Money_136
+  - first:
+      213: 6244830671518165103
+    second: Money_137
+  - first:
+      213: -6577548451554258799
+    second: Money_138
+  - first:
+      213: 3607735932955047965
+    second: Money_139
+  - first:
+      213: 987517549977164163
+    second: Money_140
+  - first:
+      213: 4886770459079261349
+    second: Money_141
+  - first:
+      213: 1203490177784124678
+    second: Money_142
+  - first:
+      213: 8894912938290230483
+    second: Money_143
+  - first:
+      213: -1507125633262369631
+    second: Money_144
+  - first:
+      213: 7919670928639857350
+    second: Money_145
+  - first:
+      213: -8061969232599834420
+    second: Money_146
+  - first:
+      213: 3076018627622533247
+    second: Money_147
+  - first:
+      213: 6942913606303170165
+    second: Money_148
+  - first:
+      213: 9126052502186736875
+    second: Money_149
+  - first:
+      213: 4295318944099813716
+    second: Money_150
+  - first:
+      213: 482084624868222849
+    second: Money_151
+  - first:
+      213: -4472240608021660448
+    second: Money_152
+  - first:
+      213: 1209764601951135208
+    second: Money_153
+  - first:
+      213: -3119446098119817151
+    second: Money_154
+  - first:
+      213: -1009989485066192149
+    second: Money_155
+  - first:
+      213: 3308015307698550116
+    second: Money_156
+  - first:
+      213: 5338156182289971702
+    second: Money_157
+  - first:
+      213: 2128965721343111516
+    second: Money_158
+  - first:
+      213: -6711458643320778471
+    second: Money_159
+  - first:
+      213: -2529153109526324569
+    second: Money_160
+  - first:
+      213: 6040249519462591506
+    second: Money_161
+  - first:
+      213: -345260727478971275
+    second: Money_162
+  - first:
+      213: 6630896219964862637
+    second: Money_163
+  - first:
+      213: 8855721087708997220
+    second: Money_164
+  - first:
+      213: 7604579989095511312
+    second: Money_165
+  - first:
+      213: 282394609585414524
+    second: Money_166
+  - first:
+      213: -2154416299829418623
+    second: Money_167
+  - first:
+      213: 4812602775523951308
+    second: Money_168
+  - first:
+      213: 6277541831088892090
+    second: Money_169
+  - first:
+      213: 1621734359796993345
+    second: Money_170
+  - first:
+      213: 5327512821615164176
+    second: Money_171
+  - first:
+      213: -8814903529275454601
+    second: Money_172
+  - first:
+      213: 1033318221063050666
+    second: Money_173
+  - first:
+      213: -6320885675197919246
+    second: Money_174
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Money_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ebe3af452a6e41ba2fc62e7342c01
+      internalID: 5670732621190257608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dde19a0fa65324694a7a017ae8bb01
+      internalID: 2429705866556353255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d37956ed7fb747a85fe42f773b2a8
+      internalID: -8490346600704463052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d79af0cc1c1a4fadb503a2dca4a73
+      internalID: -2552588362852645552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 336
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43e912d7d194d46a2c75dff2e9221a
+      internalID: -1282214387447324998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 336
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844253a1efa53bb4baf60910799a0544
+      internalID: -3827101018466894660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 336
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c8a08059829240a2b006d1ceec18d
+      internalID: -4995113568988858389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9dce7f999811479327322beccf9c7
+      internalID: 1421891112487886428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d96bd2a747f2e4e88391e572eae5ff
+      internalID: 3095945364619268125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 336
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0d5b6d1d422c4ba06a5dfa7679403
+      internalID: -5474721578163027431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1735187f4a4a47be68b580c291808
+      internalID: -862303008461550095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd17ac6ecc23e34584e395a9887ea57
+      internalID: 4893508558537148373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 302
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5db29cb034d54ba1e5fa1a9655abf
+      internalID: 1324051523622856798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 302
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb79061a3a576046ac5c13fc56966cd
+      internalID: -6309029677991136688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 302
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03ff7dfae00fb4d9777e8ca1e192fc
+      internalID: -1555146038837010751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 302
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c607ca58257fe2840be3d2b2be1fd474
+      internalID: 1839454547574078320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 302
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b87764e654d041ab24afd6b50e0d2
+      internalID: 5532973593654254713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 302
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fb94adfdb8d34c918b3f840e75bad
+      internalID: -6118040220807544100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 302
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7319ee9b79b144886d3e48f356630a
+      internalID: -3201735852291667062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 305
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9642eaaff76554a947de74eea6c8eb
+      internalID: -4389961223291974512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 305
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716a455c3338ed458299a2e5ce62844
+      internalID: 4670307417795830905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0be8a053071f45aef9d8bc01e8492
+      internalID: -674246597458579737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a356e38f8f24ef4190739ba7b898082
+      internalID: -259490080492747291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120597e09f8d30409a747ff7c7e2702
+      internalID: -7433400660908938034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 263
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a273a7c398a8c44088f366e95d44f8c
+      internalID: 4973198997511611038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 263
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabdc36a3680a00409c90fdbf0659044
+      internalID: -2445350590535647921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 263
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abce74030fca14cbfae400a52d5559
+      internalID: -4139231717538744444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303bf9de0063c494e8921dbed7f77300
+      internalID: -1316032350591767884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 269
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d44f02aef60e14b9e1e5b36f356ec2
+      internalID: -6055277565809255214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be29207a8e2f8d4abbbc6c708e8282e
+      internalID: 3961607052776356226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f48103e50760940881bc8f8532f177
+      internalID: 749805915025457253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb712f7bcf0472440ba1b5c09497ac1d
+      internalID: -8070835644520190554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2873dbdd5f1574e95e7043a6dd146a
+      internalID: 8159242576659862087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a358c7a481a2964a89625636e9ed94c
+      internalID: 380549407285653454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956edf80a5eaf324a8c8a3623e6e7058
+      internalID: -6920390118124130650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b515d2eb6ac904bbc10aef03ae222f
+      internalID: 2747412910409868577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f1f9ba59c51a498c6d09afa96e0b0
+      internalID: 4714754571201732623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 231
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac527da89291319439403a6329e7346a
+      internalID: -466792021232833881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 237
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168e9a2813092c4cbe02ccdc3adf2f1
+      internalID: -5878858201171056856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 237
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff86d292cffa5542accada41eab8298
+      internalID: -8915622793248463746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f55470539972478a2ff527044c83e
+      internalID: -2480846428851291039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 237
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a27ae2f98097c749bf1c3ca18a1e6ab
+      internalID: -2145293498323951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe196c550eee81428fbdbf30f3264ad
+      internalID: 3762813438836605925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 237
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de048448bad50143b6b7bd903c86d4d
+      internalID: 2925723082203846840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e34194d58f7344282d07f2105f5187
+      internalID: 6595481279612977606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 191
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78805670673d24488b7a4a91c743963
+      internalID: 7956173385695544543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 191
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036287eb8d20fc34e85c3c9a1f58ff85
+      internalID: 9215394108492549724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 216
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7feaec6f264d41428ca6ac22f39e618
+      internalID: 5303391512928754146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bdee897e353304daf61fe5d47be7b3
+      internalID: -329964969547701758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e96da2c3e68e1047af784fb61ee401c
+      internalID: -6777813420419079888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f6b620db2d8f64f9f2e971d992f25a
+      internalID: 1348561274155929388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb67451e88bda549a66159114400997
+      internalID: 2304987420763860960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e7c52992bf25049a653ec6e8256bdf
+      internalID: 5389514408919183508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921624dcdf226c9468360aced9c0e771
+      internalID: 1229583979005129417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 216
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9034952da07df974b9b164c62020924a
+      internalID: 7077856510775217764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6634cfb054859438321ec1eca9a3f0
+      internalID: -5398030417774263190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ba1a275f72284aa59bfb91a9779b3
+      internalID: 2196861443901169210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cdd414c424ee4db4ec2dc240c244b
+      internalID: -735606139567834509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 206
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb1aa8983d33b4796547c7c4b2ce48
+      internalID: -766247658843509733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6f47fad9724b4cadd60c7dd9141ff
+      internalID: 6841225919094950841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed62b8fc1b5b624f947a5b6c8c5f321
+      internalID: 4186158861187567796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 206
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5619f95d2d0b44da44924fdfd55759
+      internalID: -717336565430974103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6dac4ec5e99664481928835a41b3dc
+      internalID: -5072843143628538431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 206
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f9c1e258b10f64ba13b64a1b6a0244
+      internalID: -4375726745670562086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86861f8e6c1910f4fa5878de3f57014a
+      internalID: -6856264538384309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 206
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c14a401aaad7c4ea296eb8d1cdf77d
+      internalID: -8467720242024115978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f09253ea34f4469f83159689f342a
+      internalID: -1148611412551567559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 206
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72324e050cbaa6439b1d85e0c88bdfb
+      internalID: 1685718898759780171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b66d45bf14a5f41867a1e03d8a9808
+      internalID: -2895193013680187306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 206
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a70b58affca48488dd8fb3a2414f09
+      internalID: 3656519912069974261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32673beca34ea4cb5819707097eb21
+      internalID: 9149494251333775930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 206
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e57bf18fe6f94cbeede65e2515256
+      internalID: 4938216975010327433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 194
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f681b164331a4685425ea9df04587
+      internalID: 5897756708782527484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7d795d8baffc499bc96f6bf76245c
+      internalID: 3535370880580832994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d0ddcd238ff674c957457a52065a04
+      internalID: 3178020872764604690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0bac8e8e4b40478c05258bbe09d6a
+      internalID: -5109853072574350525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1dc63687410c34eaadcb0e485d44b2
+      internalID: -6632375649686833761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacfc87adad90e148bc00afd11fdac0e
+      internalID: -1505501749342543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462007b0d162f694b8cc84638a76a483
+      internalID: -6295868071606034953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 194
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2213b7195f5e548806c8b80b768910
+      internalID: 5870835803746049550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2939d7605334741ae4f97abeae679c
+      internalID: -1821142891873494885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a463aee8694df4486eb9d42cf1c3d2
+      internalID: 7036636186474655742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1a9075147cad42a9e67cf70013245
+      internalID: -5093034400717808769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c13e7669279642836d8759f3f9aea
+      internalID: 1230048503378625477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_84
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 194
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647eca6bc0d061a4897dcffb8bf80001
+      internalID: 1011631615670985363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 194
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44741ad0752998441877795eb296f5c4
+      internalID: 601576213222372844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433ad97d4a653140a60afb55b6f02d5
+      internalID: 2886460898914023644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 153
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00011046fe7399646824a3a56e6bdcc4
+      internalID: 8889729501621086619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 153
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9a64766606394ab6874c0f539288b
+      internalID: 8325633404845009883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 153
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed86c5cd6db5ba4c9a5071d73b48ab1
+      internalID: -3443149976763177442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_90
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd292c8c081bb5e4bb9d0be5c7351586
+      internalID: -2182205122968918851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf44660563b9040b47a2cc96f9a012
+      internalID: 8713999856674320931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 160
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fb6c9e62308c4db58f00c06be7eba
+      internalID: -2854429364417609215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 160
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343d859a3165494f9580154429de0ae
+      internalID: 5947406933878214945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204afad183456c4d9f53c4b1d035e56
+      internalID: 7784931853504629166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_95
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718452c4fd0d9c141bbccdad8f076bcf
+      internalID: 5565749067009644644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9790815120efe4e801cf2fb5541012
+      internalID: 3974586704059093645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_97
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b184fcb563464a8a7a40e8588de84
+      internalID: -4808291485383657223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_98
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 116
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e31bb128a88a946b5cab6c8be83958
+      internalID: 2791228165489421071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_99
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 116
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d8c2b99ee35945b84680708cfec55
+      internalID: 4071820659288153943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 119
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed5f714e5e48a4088d28bfcff522a8
+      internalID: 5442357172394082901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d857fcc00bcfc4abda38cb6fa0328a
+      internalID: -5805663323723435791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ceda92d3ad474abf6b0e92a4ba7ad
+      internalID: -2958041310634842970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_103
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f582938c211924abc9fe13c3ce4c0e
+      internalID: -5453911848252792803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f8b83060897074692cb7e31580e042
+      internalID: 6741967777660097706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24341cab54e38164eaf9bbbb1cff2f0c
+      internalID: -5788363531207134393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 89
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b578402187c448ab965773171ccda
+      internalID: 2663130862781106812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_107
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 89
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fabe4a47ed6447a5c69eef9043b48
+      internalID: -2698839954391994208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8172c1e76ca29149985bb1b437402ee
+      internalID: -9199968272954869728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e4d37e8e91d8418d5c638eed6ca46
+      internalID: -5722222076722959548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_110
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24aae6198b87a64fa4faa342a8e0695
+      internalID: 5269224327204698114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6c9ffed7afbd40876b129e7526ba0
+      internalID: -3030024190991997793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b5e21fdf3ee2e46a084a341969e335
+      internalID: -7082196619032389540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_113
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8978bd7cb3c042ad1bd24cf063029
+      internalID: 970133727096726790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 49
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342ffb780d65fb48a12088cd1951fd2
+      internalID: 1580084424417631257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db97b258b54f6742a3e2ccaff6b567e
+      internalID: 8562566557814156515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_116
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 60
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf97df1cb4452542aab83726c14afa4
+      internalID: -2752793536752992993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a50fa0ea1b274097384a42173558c
+      internalID: 5630664956369365096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_118
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2724d790fa73eb341b5cd4d8402cd41b
+      internalID: 8849951351917995684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_119
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2b0a4d6cb5704c9d1c92361dd0e37
+      internalID: -5960449521716087006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_120
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 60
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd175d91698981b4da80507e26cf0903
+      internalID: 5905910642861895227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3343f9481a788f42978d88f3945943c
+      internalID: -3900973768919755795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_122
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1c686328ff2240aacb698afd1d89c
+      internalID: 5640545609446842729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e8f954fcdd454ab8905bae70e5f2e
+      internalID: 6958530428667065325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3208760fa22b4589b8ea190db7c0d
+      internalID: 9003803533649261483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_125
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b25797436abfbc43a6d6e085d93f46b
+      internalID: 7457869613678896129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_126
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9867b8b23ece9418a8ece7bfaaa804
+      internalID: -3105855206008395355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aca63686ec6f24b8a6f65d409c643f
+      internalID: 5732705537777460424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b0bd31a496ad4d933a60dcc9f12c9
+      internalID: 4322616289792386022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_129
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 13
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b75a493d8b8347b72c3d24aa7abb4
+      internalID: -8012297710835795577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_130
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2fd57d0ac77dc4b9b4a8d7c82aed2b
+      internalID: 6206265897345317010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_131
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 25
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce42131e58e224ca28b976944349ab
+      internalID: -4281113846443256183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e9c794ec169e4fa0be0535bbb0403
+      internalID: 8028989810191601675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_133
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 25
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7bbc43e342e34b99ee64b909c07e5
+      internalID: -5740617163177476575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_134
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07e4ddd8d52d84fb42dc08330f7bb8
+      internalID: -342870233705532916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_135
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 25
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440be9d9b8566e24e8d276039cca1002
+      internalID: 860803991724170300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_136
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765fc258621de1d41b64403a16119df0
+      internalID: -8790162783381063544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f8503eaa273846a9f8a5891c10c14
+      internalID: 6244830671518165103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_138
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c7dbabd1b18e4db718f2d8a5ec339
+      internalID: -6577548451554258799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_139
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c6f3c7597ab44f9bb53317af6069a
+      internalID: 3607735932955047965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_140
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dacc5653387c54458e5060d4acffb3d
+      internalID: 987517549977164163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd7a99afec4cb14984b79f622e6c419
+      internalID: 4886770459079261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa23a4a7ce5ab9459673e650a3a99cd
+      internalID: 1203490177784124678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_143
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095e7f2fb6c0f4e418f8652ac8a4b521
+      internalID: 8894912938290230483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03432d99e370fe742b195210f630e681
+      internalID: -1507125633262369631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8442298be0d9041b81bbfeb6574951
+      internalID: 7919670928639857350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_146
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf85964e7719ed4e9b24832c75291b6
+      internalID: -8061969232599834420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_147
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5183b8284d2f941a18f0751b228ce1
+      internalID: 3076018627622533247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_148
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b85d9aff8c33d640be7a29b45a59316
+      internalID: 6942913606303170165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_149
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ad7addce206d45b96afe4e46ecdb0
+      internalID: 9126052502186736875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_150
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aae3af4529ce434ab6bc1a94782649c
+      internalID: 4295318944099813716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a154e293f2a92468cbeb671d14f00a
+      internalID: 482084624868222849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_152
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc069f7e0707fb438d96661d64852ed
+      internalID: -4472240608021660448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246029cf9bf66464e8648d37a41a22d4
+      internalID: 1209764601951135208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_154
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508decf935e050428e0e8dd44bab8fc
+      internalID: -3119446098119817151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_155
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d80859543379647a11aca4a550eae8
+      internalID: -1009989485066192149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_156
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729fb01c138456641aab4fc5a0b074e6
+      internalID: 3308015307698550116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_157
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b3b887295b494e97b81cc93218125
+      internalID: 5338156182289971702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff74880645c194893adee259731601
+      internalID: 2128965721343111516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_159
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c926c0eecc1774cbfc5bae23ae198d
+      internalID: -6711458643320778471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_160
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9179f01bc11cd44903ce760c38a989
+      internalID: -2529153109526324569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_161
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03071cad073234c9580e1fec50f7f0
+      internalID: 6040249519462591506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_162
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901e8143c8609c4fbfe71173497f248
+      internalID: -345260727478971275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_163
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f705e28ccbf5114ea0abfc34ddfac71
+      internalID: 6630896219964862637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d752318b771e0c4ab2cfcce33a0be5c
+      internalID: 8855721087708997220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_165
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674351c586b88b84ebaedf0d996ced83
+      internalID: 7604579989095511312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_166
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad10b421cd012489ddaddd4ffd2925
+      internalID: 282394609585414524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_167
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61c55492b7f63f4080d5ab2babe3fa8
+      internalID: -2154416299829418623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a753a6dda191b1f438cbb49db0e78c69
+      internalID: 4812602775523951308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_169
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4092dd48e54c3418cdcd33e7eb1e2e
+      internalID: 6277541831088892090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_170
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7292e448df06c5f45a95cbd792239e6e
+      internalID: 1621734359796993345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_171
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc842bd58a4b644cade2584c1334f2e
+      internalID: 5327512821615164176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4a2c896b0f33444b11f6f381e70b0f
+      internalID: -8814903529275454601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_173
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14f92690fdc6947b58e94999a5a7ba
+      internalID: 1033318221063050666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money_174
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183703094cf83d4293649860db8e0ee
+      internalID: -6320885675197919246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 73deb6f8a58bc6f49867d0f768cbf194
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
