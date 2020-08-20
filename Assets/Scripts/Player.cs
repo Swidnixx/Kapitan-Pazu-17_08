@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -13,6 +15,27 @@ public class Player : MonoBehaviour
     private bool canJump = true;
 
     private int score = 0;
+    public Text scoreText;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Coin")
+        {
+            score++;
+            Destroy(collision.gameObject);
+            scoreText.text = score.ToString();
+        }
+
+        if(collision.tag == "Enemy")
+        {
+            SceneManager.LoadScene("Przegrana");
+        }
+
+        if (collision.tag == "Win")
+        {
+            SceneManager.LoadScene("Wygrana");
+        }
+    }
 
     void Start()
     {
